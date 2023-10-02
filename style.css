@@ -177,6 +177,7 @@ section {
     margin: auto 0;
     overflow: hidden;
     border-radius: 50%;
+    filter: drop-shadow(-10px 30px 60px #555);
 }
 
 .section__text {
